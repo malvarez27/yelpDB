@@ -22,8 +22,9 @@ I queried the database to gather and sort the data that I wanted to know. For ex
 
 Once I had the different tables created, I established a connection to my Tableau desktop application. I created data visualizations to come to conclusions about the data gathered. Data visualizations helped create a story about the data collected.
 
-| Syntax      | Description |
-| ![picture](BurgerLoc.png)        |   ![picture](BurgerLocNearLMU.png)  |         
+Original Image | Final Image
+-------|---------------
+![picture](BurgerLoc.png)   | ![picture](BurgerLocNearLMU.png)
 
 Outcomes:
 I was able to utilize the Yelp API to create a table in my database. I then created visual to analyze the data.  It clearly showed what restaurant categories were lacking in certain areas. The data collected might help a business owner view the competition and how they might want to make their business stand out.
