@@ -1,5 +1,5 @@
 # Database Project
-By Marissa Alvarez
+
 In Spring of 2019 I completed this Database project. I analyzed data on local restaurants in order to determine rating patterns for establishments, analyze restaurant categories in an area, and discovered categories that were heavily populated near my university. The technologies used were the following: Python, TablePlus, MySQL, Anaconda, and Tableau. I utilized Python to web scrape the data from the Yelp API. I used the following URL for our search:
 ```
 url='https://api.yelp.com/v3/businesses/search'
