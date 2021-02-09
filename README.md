@@ -22,7 +22,7 @@ I queried the database to gather and sort the data that I wanted to know. For ex
 
 Once I had the different tables created, I established a connection to my Tableau desktop application. I created data visualizations to come to conclusions about the data gathered. Data visualizations helped create a story about the data collected.
 
-Original Image | Final Image
+
 -------|---------------
 ![picture](BurgerLoc.png)   | ![picture](BurgerLocNearLMU.png)
 
