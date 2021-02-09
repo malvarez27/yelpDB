@@ -30,9 +30,10 @@ Locations | Results
 -------|---------------
 ![picture](BarsNearLMU.png)   | ![picture](BarsResults.png)
 
-Outcomes:
+# Outcomes
 I was able to utilize the Yelp API to create a table in my database. I then created visual to analyze the data.  It clearly showed what restaurant categories were lacking in certain areas. The data collected might help a business owner view the competition and how they might want to make their business stand out.
 
+# Links to Further Documentation
 
 [Link to Code](https://malvarez27.github.io/yelpFinal/)
 
